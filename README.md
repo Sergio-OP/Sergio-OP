@@ -8,7 +8,7 @@ Mobile Developer
 
 * 🌍  I'm based in **Mexico City**
 * ✉️  You can contact me at [sergio.osorio.pasaran@gmail.com](mailto:sergio.osorio.pasaran@gmail.com)
-* 🧠  I'm currently learning **iOS** development with **Swift
+* 🧠  I'm currently learning **iOS** development with **Swift**
 * 🤝  I'm open to collaboration
 * 💬  Ask me about **Android**, **Kotlin** and **Kotlin Multiplatform**
 * ⚡  Let´s code something amazing!
